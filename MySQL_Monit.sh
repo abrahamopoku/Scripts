@@ -1,6 +1,4 @@
 #!/bin/bash
-
-############################################### By Abraham Opoku###########################
 DB_BACKUP_PATH='/home/ab/backupdb'
 MYSQL_HOST='localhost'
 MYSQL_PORT='3306'
